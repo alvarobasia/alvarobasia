@@ -18,7 +18,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"  />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" width="50" height="50"  />
  <img src="https://lh3.googleusercontent.com/proxy/dY-9nd-wtUzRKuTutyK2w5g0mywAPAFh-LGQqstzeGKmKqp9-s6iDZi1li_W1tEExNMMfOGzhDgLXS9L8GrR5PGFgHdK2nQDrkZZ9n5M4GxJNQAtmx_VzR8coeT0K_iDHsYetkD8eUmyWXfobx1LynuwY_7WWt0slaM" width="50" height="50"  />
- <img src="https://rocket.rs/v0.4/images/logo-boxed.png" width="50" height="50"  />
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50" height="50"  />
  </div>
  
