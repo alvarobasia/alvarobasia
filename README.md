@@ -1,4 +1,5 @@
 <!--### ✨ Hi !!! Welcome to my profile 👋 ✨-->
+
 <img src="https://imgur.com/iUj1E6s.png"></img>
 
 ## I love Javascript, Typescript and Rust and all the technologies in this ecosystem!
@@ -28,7 +29,7 @@
 
 
 
-<img align='center' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
+
 
 
 
@@ -36,6 +37,7 @@
  <details>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align='center' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
 </details>
 
 ### Contact me!
