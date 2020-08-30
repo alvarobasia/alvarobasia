@@ -1,5 +1,5 @@
 <!--### ✨ Hi !!! Welcome to my profile 👋 ✨-->
-![Welcome](https://github.com/alvarobasia/alvarobasia/blob/master/cover.png?raw=true)
+<img src="https://imgur.com/iUj1E6s.png"></img>
 
 ## I love Javascript, Typescript and Rust and all the technologies in this ecosystem!
 <!--
