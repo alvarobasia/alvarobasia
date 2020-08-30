@@ -1,10 +1,11 @@
 <!--### ✨ Hi !!! Welcome to my profile 👋 ✨-->
 <img src="https://imgur.com/iUj1E6s.png"></img>
 
-## I love Javascript, Typescript and Rust and all the technologies in this ecosystem!
+## I love Javascript, Typescript and Rust and all the technologies in this ecosystem!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!--
 **alvarobasia/alvarobasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## Tools
 <div>
  <img src="https://camo.githubusercontent.com/3e656c564799684232b370b9b3d227e98f65d460/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4d6d7777322e706e67" width="50" height="50"/>
  <img src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg?ssl=1" width="50" height="50"  />
@@ -21,13 +22,13 @@
  </div>
  
  </div>
-
+ <details>
+ <summary> <b> Click to see my stats! </b> <i>(click to expand!)</i> </summary>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- <center>
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
+</details>
+<img align='center' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
 
 
-</center>
 
 
 
