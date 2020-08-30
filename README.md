@@ -1,5 +1,5 @@
-### ✨ Hi !!! Welcome to my profile 👋 ✨
-
+<!--### ✨ Hi !!! Welcome to my profile 👋 ✨-->
+![Welcome](https://github.com/alvarobasia/alvarobasia/blob/master/Facebook%20Cover%20-%201%20(1).png?raw=true)
 ![f](https://img.shields.io/github/followers/alvarobasia?style=for-the-badge)
 ![b](https://img.shields.io/badge/Hi-everyone-blue?style=for-the-badge)
 
@@ -26,7 +26,8 @@
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![git](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+ <center>
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
+</center>
 
 
