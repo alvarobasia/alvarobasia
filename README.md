@@ -33,7 +33,7 @@
 
 
 
- <summary> <b> Click to see my stats! </b> <i>(click to expand!)</i> </summary>
+ <summary> <b> Click below to see my stats! </b> <i>(click to expand!)</i> </summary>
  <details>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
