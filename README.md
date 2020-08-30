@@ -12,8 +12,8 @@
 -->
 <h2>Tools</h2>
 <div>
- <img src="https://camo.githubusercontent.com/3e656c564799684232b370b9b3d227e98f65d460/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4d6d7777322e706e67" width="50" height="50"/>
- <img src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg?ssl=1" width="50" height="50"  />
+<a href="https://www.ecma-international.org/publications/standards/Ecma-262.htm"> <img src="https://camo.githubusercontent.com/3e656c564799684232b370b9b3d227e98f65d460/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4d6d7777322e706e67" width="50" height="50"/></a>
+ <a href="https://www.typescriptlang.org/"><img src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg?ssl=1" width="50" height="50"  /></a>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50" height="50" style="display: none;" />
   <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="50" height="50"  />
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"  />
