@@ -22,15 +22,18 @@
  </div>
  
  </div>
- <details>
- <summary> <b> Click to see my stats! </b> <i>(click to expand!)</i> </summary>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+ 
+
+
 <img align='center' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
 
 
 
+ <summary> <b> Click to see my stats! </b> <i>(click to expand!)</i> </summary>
+ <details>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ### Contact me!
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro.araujo@aluno.ufop.edu.br)
