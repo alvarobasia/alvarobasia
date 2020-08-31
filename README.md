@@ -15,16 +15,24 @@
 -->
 <ul>
  <li>
+  <b>
  ✔ I am currently improving my skills 🛠
+   </b>
  </li>
  <li>
+  <b>
  ✔ Back end programming with Typescript and Nestjs 👨🏽‍💻
+  </b>
  </li>
  <li>
+  <b>
  ✔ Front end programming with React 👨🏽‍💻
+  </b>
  </li>
  <li>
+  <b>
  ✔  Learning more about Rust 🦀
+  </b>
  </li>
 </ul>
 <img align='center' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
