@@ -28,11 +28,10 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Contact me!
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro.araujo@aluno.ufop.edu.br)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-de-araujo-845741135/)
  <img align="center" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
