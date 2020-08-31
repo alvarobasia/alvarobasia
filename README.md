@@ -4,6 +4,10 @@
 
 ## I love Javascript, Typescript and Rust and all the technologies in this ecosystem! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
+
 <br/>
 
 <!--
@@ -24,10 +28,6 @@
  </li>
 </ul>
 <img align='center' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"></img>
-<center>
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-</center>
 
 
 ### Contact me!
