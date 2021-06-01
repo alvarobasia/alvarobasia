@@ -31,4 +31,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-de-araujo-845741135/)
 
 
-
+![Snake animation](https://github.com/alvarobasia/alvarobasia/blob/output/github-contribution-grid-snake.svg)
