@@ -28,7 +28,7 @@
 
 ### Contact me!
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro.araujo@aluno.ufop.edu.br)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/álvaro-basílio-845741135/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/álvaro-basílio-845741135/)
 
 
 ![Snake animation](https://github.com/alvarobasia/alvarobasia/blob/output/github-contribution-grid-snake.svg)
