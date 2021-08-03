@@ -17,11 +17,19 @@
 
 <!-- <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" /> -->
 
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alvarobasia&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div>
  <img height="180em" align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobasia&layout=compact&langs_count=16&theme=dracula"/>
-
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
