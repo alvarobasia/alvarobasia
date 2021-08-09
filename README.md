@@ -35,6 +35,11 @@ class Skills extends Developer {
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p> -->
 
+<div>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=alvarobasia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="185em" src="https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=true"/>
+ </div>
+
 <p align="left">
   💌 Contact me: ⤵️
 </p>
@@ -56,10 +61,9 @@ class Skills extends Developer {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> -->
 </p>  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=true)](https://git.io/streak-stats) -->
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvarobasia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <br/>
 
 <!--
