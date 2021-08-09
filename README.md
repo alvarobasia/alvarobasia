@@ -37,7 +37,7 @@ class Skills extends Developer {
 
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvarobasia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=false"/>
  </div>
 
 <p align="left">
