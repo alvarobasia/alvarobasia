@@ -17,7 +17,7 @@ class About extends Developer {
 class Skills extends Developer {
   languages = ['Node','JS','TS','Java','C','Python','Rust'];
   db  = ['PostgreSQL'];
-  libs = ['ReactJS', 'TypeORM', 'Hibernate'];
+  libs = ['ReactJS', 'Prisma', 'Hibernate'];
   frameworks = ['NestJS', 'Spring Boot'];
 }
 ```
