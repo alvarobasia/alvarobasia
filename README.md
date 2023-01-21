@@ -22,11 +22,11 @@ class Skills extends Developer {
   frameworks = ['NestJS', 'Spring Boot'];
 }
 ```
-<div aligh="center">
+<!-- <div aligh="center">
  
  ![Snake animation](https://github.com/alvarobasia/alvarobasia/blob/output/github-contribution-grid-snake.svg)
  
- </div>
+ </div> -->
 
 <!-- <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
@@ -36,7 +36,7 @@ class Skills extends Developer {
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p> -->
 
-<div>
+<div style="display: flex; justify-content: space-between; aligh-itens: center;">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvarobasia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=false"/>
  </div>
