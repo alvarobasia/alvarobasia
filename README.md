@@ -19,7 +19,7 @@ class Skills extends Developer {
                 'Rust','C','Python','JS'];
   db  = ['PostgreSQL'];
   libs = ['ReactJS', 'Prisma', 'Hibernate'];
-  frameworks = ['NestJS', 'NextJS' , 'Tailwind' , 'Spring Boot'];
+  frameworks = ['NestJS', 'NextJS', 'Tailwind', 'Spring Boot'];
 }
 ```
 <!-- <div aligh="center">
