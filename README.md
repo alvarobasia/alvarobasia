@@ -36,10 +36,10 @@ class Skills extends Developer {
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p> -->
 
-<div style="display: flex; justify-content: space-between; aligh-itens: center;">
+<!-- <div style="display: flex; justify-content: space-between; aligh-itens: center;">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvarobasia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=alvarobasia&theme=dracula&hide_border=false"/>
- </div>
+ </div> -->
 
 <p align="left">
   💌 Contact me: ⤵️
