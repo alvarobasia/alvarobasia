@@ -35,9 +35,7 @@ class Skills extends Developer {
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 
 - :school: Atualmente trabalhando como pleno front-end em uma consultoria.
 - :technologist: Minhas tecnologias favoritas são Node e Rust.
@@ -55,7 +53,7 @@ class Skills extends Developer {
 
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarobasia&theme=tokyonight_duo" alt="alvarobasia" /></p>
-
+	
 
   
 
@@ -64,7 +62,7 @@ class Skills extends Developer {
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="alvarobasia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alvarobasia&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarobasia&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="alvarobasia" height="230px"/>
+
 <br/>
 
   </p>
