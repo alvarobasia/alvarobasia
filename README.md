@@ -160,7 +160,7 @@ class Skills extends Developer {
 
 -----
 
-<h3 align="center" >Entre em contato </h3>
+
 
 <p align="center">
 
