@@ -49,41 +49,37 @@ class Skills extends Developer {
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Stats
 
-<details><summary><h3> 🔥 Streak </h3></summary>
 
-----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarobasia&theme=tokyonight_duo" alt="alvarobasia" /></p>
 
-</details>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarobasia&theme=tokyonight_duo" alt="alvarobasia" /></p>
+
+
   
-<details><summary><h3>💻 Commits </h3></summary>
 
-----
+
 	
-<p align="center">
+<p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="alvarobasia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alvarobasia&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarobasia&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="alvarobasia" height="230px"/>
 <br/>
 
   </p>
-</details>
+
 
  
-</details>
 
-<details><summary> <h3> :trophy: Troféus </h3></summary>
 
-----
+
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvarobasia&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="alvarobasia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvarobasia&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="alvarobasia" /></a> </p>
 
 <!--[![@alvarobasia's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@alvarobasia) -->
 	
-</details>
+
 	
 <!-- <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
@@ -155,26 +151,34 @@ class Skills extends Developer {
 </div>
 </details> -->
 
-</br></br>
 	
-## 🐍 
 	
 <p align = "center">
 	<img src = "https://github.com/alvarobasia/alvarobasia/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 
-<p align="left">
-  💌 Contact me: ⤵️
+-----
+
+<h3 align="center" >Entre em contato </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/alvaro-basilio/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/alvarobasia">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:alvaro.araujo@aluno.ufop.edu.br">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+
+	
+
+
 </p>
 
-<p align="left">
-  <a href="mailto:alvaro.araujo@aluno.ufop.edu.br" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alvaro.araujo@aluno.ufop.edu.br" /></a>
 
-  <a href="https://www.linkedin.com/in/álvaro-basílio-845741135/" alt="Linkedin">
-<!--   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/álvaro-basílio-845741135/" /></a> -->
-    <a href="https://www.linkedin.com/in/álvaro-basílio-845741135/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%A1lvaro-bas%C3%ADlio-845741135" /></a>
+
+
 
 
