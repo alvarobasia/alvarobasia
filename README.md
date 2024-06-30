@@ -163,9 +163,7 @@ class Skills extends Developer {
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/alvaro-basilio/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/alvarobasia">
+
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="mailto:alvaro.araujo@aluno.ufop.edu.br">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
