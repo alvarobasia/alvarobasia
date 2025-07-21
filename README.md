@@ -39,7 +39,6 @@ class Skills extends Developer {
 
 - :school: Atualmente trabalhando como pleno front-end em uma consultoria.
 - :technologist: Minhas tecnologias favoritas são Node e Rust.
-- :student: Atualmente estudo na `UFOP` o curso de bacharelado de `sistemas de informação`.
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
 
